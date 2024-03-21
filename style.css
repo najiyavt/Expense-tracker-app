@@ -1,0 +1,9 @@
+.btn{
+    cursor: pointer;
+    background-color: rgb(121, 121, 155);
+    width: 5px;
+}
+
+label{
+    font-weight: bold;
+}
